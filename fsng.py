@@ -72,6 +72,10 @@ for word in names_to_use:
         i+=1
     processed_names.append(processed_name)
 
+
+
+
+
 # concatinete all words
 final_word = ""
 for word in processed_names:
